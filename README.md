@@ -39,4 +39,3 @@ Description: Immerse yourself in the world of game development by creating an in
 12. WORD COUNT
 Description: Develop a TypeScript-powered word count application. This project involves building a user-friendly interface to input text, and your TypeScript code will efficiently analyze and display the word count, providing a practical utility for users.
 
-These additional projects will not only add diversity to your TypeScript portfolio but also challenge you to apply TypeScript in different domains, from game development to creating useful tools. Have fun coding! 🎮✨
